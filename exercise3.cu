@@ -122,9 +122,9 @@ int main(){
 
 	// malloc memory
 	
-	int block_size = 16;
+	int block_size = 8;
 	int rate =2;
-	int  element_number = 40000;
+	int  element_number = 20000;
 	int block_size_iter = block_size;
 	// create csv file to record.
 	FILE *fp;
